@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace UmsWeb.DataAccess.Migrations
 {
-    public partial class designums : Migration
+    public partial class newmadums : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

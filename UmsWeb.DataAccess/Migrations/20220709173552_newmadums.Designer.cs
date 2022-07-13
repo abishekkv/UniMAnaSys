@@ -12,8 +12,8 @@ using UmsWeb.DataAccess;
 namespace UmsWeb.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220705044107_designums")]
-    partial class designums
+    [Migration("20220709173552_newmadums")]
+    partial class newmadums
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

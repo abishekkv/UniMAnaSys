@@ -7428,19 +7428,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Madha\\.nuget\\packages\\": {}
+    "C:\\Users\\Sindhu Sasi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\UmsWeb.Models.csproj",
+      "projectUniqueName": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\UmsWeb.Models.csproj",
       "projectName": "UmsWeb.Models",
-      "projectPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\UmsWeb.Models.csproj",
-      "packagesPath": "C:\\Users\\Madha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\obj\\",
+      "projectPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\UmsWeb.Models.csproj",
+      "packagesPath": "C:\\Users\\Sindhu Sasi\\.nuget\\packages\\",
+      "outputPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Madha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sindhu Sasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

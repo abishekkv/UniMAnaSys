@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Madha\\new ums2\\UmsWeb\\UmsWeb.csproj": {}
+    "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb\\UmsWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Madha\\new ums2\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj": {
+    "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Madha\\new ums2\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj",
+        "projectUniqueName": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj",
         "projectName": "UmsWeb.DataAccess",
-        "projectPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Madha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.DataAccess\\obj\\",
+        "projectPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Sindhu Sasi\\.nuget\\packages\\",
+        "outputPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Madha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sindhu Sasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\UmsWeb.Models.csproj": {
-                "projectPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\UmsWeb.Models.csproj"
+              "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\UmsWeb.Models.csproj": {
+                "projectPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\UmsWeb.Models.csproj"
               }
             }
           }
@@ -104,17 +108,21 @@
         }
       }
     },
-    "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\UmsWeb.Models.csproj": {
+    "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\UmsWeb.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\UmsWeb.Models.csproj",
+        "projectUniqueName": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\UmsWeb.Models.csproj",
         "projectName": "UmsWeb.Models",
-        "projectPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\UmsWeb.Models.csproj",
-        "packagesPath": "C:\\Users\\Madha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.Models\\obj\\",
+        "projectPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\UmsWeb.Models.csproj",
+        "packagesPath": "C:\\Users\\Sindhu Sasi\\.nuget\\packages\\",
+        "outputPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Madha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sindhu Sasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,17 +204,21 @@
         }
       }
     },
-    "C:\\Users\\Madha\\new ums2\\UmsWeb\\UmsWeb.csproj": {
+    "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb\\UmsWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Madha\\new ums2\\UmsWeb\\UmsWeb.csproj",
+        "projectUniqueName": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb\\UmsWeb.csproj",
         "projectName": "UmsWeb",
-        "projectPath": "C:\\Users\\Madha\\new ums2\\UmsWeb\\UmsWeb.csproj",
-        "packagesPath": "C:\\Users\\Madha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Madha\\new ums2\\UmsWeb\\obj\\",
+        "projectPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb\\UmsWeb.csproj",
+        "packagesPath": "C:\\Users\\Sindhu Sasi\\.nuget\\packages\\",
+        "outputPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Madha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sindhu Sasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -220,8 +232,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Madha\\new ums2\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Madha\\new ums2\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj"
+              "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj": {
+                "projectPath": "D:\\User-Files\\Sindhu Sasi\\Desktop\\newmadums\\UmsWeb.DataAccess\\UmsWeb.DataAccess.csproj"
               }
             }
           }
